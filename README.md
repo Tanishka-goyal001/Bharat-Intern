@@ -1,4 +1,6 @@
 ###BHARAT-INTERN Projects
+
+
 Welcome to the Bharat Intern Data Science projects repository! This collection of projects showcases various data science applications and techniques, ranging from predictive modeling to data analysis and visualization. Each project aims to solve real-world problems and provide insights into data-driven decision-making. This README offers an overview of the projects, their objectives, and how to get started.
 
 
