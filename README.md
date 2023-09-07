@@ -13,7 +13,7 @@ Welcome to the Bharat Intern Data Science projects repository! This collection o
 Welcome to the Stock Price Prediction Data Science Project repository! This project focuses on predicting stock prices using data science techniques.The project utilizes historical stock price data obtained from kaggle to build and train an LSTM model that can forecast future stock prices with high degree of accuracy.
 
 
-###Titanic Classifications
+###2)Titanic Classifications
 
 
 Welcome to the Titanic Survival Classification Data Science Project repository! This project focuses on predicting passenger survival on the Titanic using data science techniques.For this project,classification algorithm like Logistic Regression,accuracy_score and train_test_split to split the data into train/test to check and avoif overfitting has been used.
