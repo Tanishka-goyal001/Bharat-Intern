@@ -13,7 +13,7 @@ Each project is contained within its own dedicated directory, complete with Jupy
 To run the notebooks and experiment with the code, you'll need to have a Python environment set up with the necessary libraries and packages. We recommend using a virtual environment to avoid conflicts. You can install the required packages using the provided requirements.txt file in each project directory.
 ###Contributions
 Contributions to this repository are more than welcome! If you find any issues, have suggestions for improvements, or want to add your own take on the projects, please feel free to open an issue or submit a pull request. Let's learn and grow together!
-License
+###License
 This repository is provided under the MIT License, granting you the freedom to modify and distribute the code for your own educational and personal use.
        Thanks for reading this!!
        Happy coding and Data Exploring!!
